@@ -12,6 +12,5 @@
 # Que 3. What is pip?
 # Ans.  pip is installation manager for python.
 
+print("Hello World!")
 
-import os
-print(os.listdir()) #listdir()--function will list all the files present in the folder.
